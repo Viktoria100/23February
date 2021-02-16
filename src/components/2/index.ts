@@ -1,0 +1,1 @@
+export {Component2} from './1'
